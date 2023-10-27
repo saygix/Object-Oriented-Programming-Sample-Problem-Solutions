@@ -1,7 +1,0 @@
-C:\Users\ayşegül\Desktop\NypOdev2\bin\Debug\NypOdev2.exe.config
-C:\Users\ayşegül\Desktop\NypOdev2\bin\Debug\NypOdev2.exe
-C:\Users\ayşegül\Desktop\NypOdev2\bin\Debug\NypOdev2.pdb
-C:\Users\ayşegül\Desktop\NypOdev2\obj\Debug\NypOdev2.csprojAssemblyReference.cache
-C:\Users\ayşegül\Desktop\NypOdev2\obj\Debug\NypOdev2.csproj.CoreCompileInputs.cache
-C:\Users\ayşegül\Desktop\NypOdev2\obj\Debug\NypOdev2.exe
-C:\Users\ayşegül\Desktop\NypOdev2\obj\Debug\NypOdev2.pdb
