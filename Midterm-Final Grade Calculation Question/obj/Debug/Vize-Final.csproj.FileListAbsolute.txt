@@ -1,0 +1,7 @@
+C:\Users\ayşegül\Desktop\Vize-Final\bin\Debug\Vize-Final.exe.config
+C:\Users\ayşegül\Desktop\Vize-Final\bin\Debug\Vize-Final.exe
+C:\Users\ayşegül\Desktop\Vize-Final\bin\Debug\Vize-Final.pdb
+C:\Users\ayşegül\Desktop\Vize-Final\obj\Debug\Vize-Final.csprojAssemblyReference.cache
+C:\Users\ayşegül\Desktop\Vize-Final\obj\Debug\Vize-Final.csproj.CoreCompileInputs.cache
+C:\Users\ayşegül\Desktop\Vize-Final\obj\Debug\Vize-Final.exe
+C:\Users\ayşegül\Desktop\Vize-Final\obj\Debug\Vize-Final.pdb
