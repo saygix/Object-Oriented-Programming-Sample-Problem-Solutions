@@ -1,0 +1,7 @@
+C:\Users\ayşegül\Desktop\Kesir\bin\Debug\Kesir.exe.config
+C:\Users\ayşegül\Desktop\Kesir\bin\Debug\Kesir.exe
+C:\Users\ayşegül\Desktop\Kesir\bin\Debug\Kesir.pdb
+C:\Users\ayşegül\Desktop\Kesir\obj\Debug\Kesir.csprojAssemblyReference.cache
+C:\Users\ayşegül\Desktop\Kesir\obj\Debug\Kesir.csproj.CoreCompileInputs.cache
+C:\Users\ayşegül\Desktop\Kesir\obj\Debug\Kesir.exe
+C:\Users\ayşegül\Desktop\Kesir\obj\Debug\Kesir.pdb
