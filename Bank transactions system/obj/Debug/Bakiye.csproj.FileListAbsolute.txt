@@ -1,0 +1,7 @@
+C:\Users\ayşegül\Desktop\Bakiye\bin\Debug\Bakiye.exe.config
+C:\Users\ayşegül\Desktop\Bakiye\bin\Debug\Bakiye.exe
+C:\Users\ayşegül\Desktop\Bakiye\bin\Debug\Bakiye.pdb
+C:\Users\ayşegül\Desktop\Bakiye\obj\Debug\Bakiye.csprojAssemblyReference.cache
+C:\Users\ayşegül\Desktop\Bakiye\obj\Debug\Bakiye.csproj.CoreCompileInputs.cache
+C:\Users\ayşegül\Desktop\Bakiye\obj\Debug\Bakiye.exe
+C:\Users\ayşegül\Desktop\Bakiye\obj\Debug\Bakiye.pdb
