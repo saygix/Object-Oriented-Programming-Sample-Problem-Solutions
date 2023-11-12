@@ -1,0 +1,7 @@
+C:\Users\ayşegül\Desktop\Finalsorusu\obj\Debug\Finalsorusu.csprojAssemblyReference.cache
+C:\Users\ayşegül\Desktop\Finalsorusu\obj\Debug\Finalsorusu.csproj.CoreCompileInputs.cache
+C:\Users\ayşegül\Desktop\Finalsorusu\bin\Debug\Finalsorusu.exe.config
+C:\Users\ayşegül\Desktop\Finalsorusu\bin\Debug\Finalsorusu.exe
+C:\Users\ayşegül\Desktop\Finalsorusu\bin\Debug\Finalsorusu.pdb
+C:\Users\ayşegül\Desktop\Finalsorusu\obj\Debug\Finalsorusu.exe
+C:\Users\ayşegül\Desktop\Finalsorusu\obj\Debug\Finalsorusu.pdb
