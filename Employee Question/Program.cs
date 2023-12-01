@@ -7,7 +7,7 @@ namespace Finalsorusu
 {
     class Program
     {
-        abstract class Employee: IPayable
+        abstract class Employee
         {
             public string Adi { get; }
             public string Soyadi { get; }
@@ -29,7 +29,7 @@ namespace Finalsorusu
             public abstract decimal GetPaymentAmount();
         }
 
-        class SalariedEmployee : Employee
+        class SalariedEmployee : Employee, IPayable
         {
             public decimal Weeklysalary { get; }
 
@@ -53,7 +53,7 @@ namespace Finalsorusu
             }
         }
 
-        class HourlyEmployee : Employee
+        class HourlyEmployee : Employee, IPayable
         {
             public decimal Wage;
             public decimal Hours;
@@ -103,7 +103,7 @@ namespace Finalsorusu
                 return Earnings();
             }
         }
-        class CommissionEmployee : Employee
+        class CommissionEmployee : Employee, IPayable
         {
             public decimal SatısMiktari { get; }
             public decimal KomisyonOrani { get; }
@@ -150,5 +150,3 @@ namespace Finalsorusu
         }
     }
 }
-
-
