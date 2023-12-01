@@ -1,0 +1,7 @@
+C:\Users\ayşegül\Desktop\SalespersonQuestion\bin\Debug\SalespersonQuestion.exe.config
+C:\Users\ayşegül\Desktop\SalespersonQuestion\bin\Debug\SalespersonQuestion.exe
+C:\Users\ayşegül\Desktop\SalespersonQuestion\bin\Debug\SalespersonQuestion.pdb
+C:\Users\ayşegül\Desktop\SalespersonQuestion\obj\Debug\SalespersonQuestion.csprojAssemblyReference.cache
+C:\Users\ayşegül\Desktop\SalespersonQuestion\obj\Debug\SalespersonQuestion.csproj.CoreCompileInputs.cache
+C:\Users\ayşegül\Desktop\SalespersonQuestion\obj\Debug\SalespersonQuestion.exe
+C:\Users\ayşegül\Desktop\SalespersonQuestion\obj\Debug\SalespersonQuestion.pdb
