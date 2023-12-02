@@ -1,0 +1,7 @@
+C:\Users\ayşegül\Desktop\Nyp\Example\bin\Debug\Example.exe.config
+C:\Users\ayşegül\Desktop\Nyp\Example\bin\Debug\Example.exe
+C:\Users\ayşegül\Desktop\Nyp\Example\bin\Debug\Example.pdb
+C:\Users\ayşegül\Desktop\Nyp\Example\obj\Debug\Example.csprojAssemblyReference.cache
+C:\Users\ayşegül\Desktop\Nyp\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\ayşegül\Desktop\Nyp\Example\obj\Debug\Example.exe
+C:\Users\ayşegül\Desktop\Nyp\Example\obj\Debug\Example.pdb
