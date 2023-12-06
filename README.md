@@ -1,39 +1,78 @@
-OBJECT ORIENTED PROGRAMMING
+# OBJECT ORIENTED PROGRAMMING IN C#
 
-This project aims to provide more information on Object-Oriented Programming in the C# language and includes solutions to questions. The questions cover various topics such as Constants, Variables, Type Conversion, Operators, Loops, Class Concept, Class Creation, Creating Objects from Classes, Passing Objects to Methods, Creating Properties, Using Properties, Constructors, Constructor Overloading, Inheritance, Inheritance Concept, and Inheritance Terminology.
+Bu proje, C# dilinde Nesne Yönelimli Programlama (Object-Oriented Programming) hakkında daha fazla bilgi sağlamayı amaçlamaktadır. Proje, çeşitli konuları kapsayan soruların çözümlerini içerir; bu konular arasında Sabitler, Değişkenler, Tür Dönüşümü, Operatörler, Döngüler, Sınıf Kavramı, Sınıf Oluşturma, Sınıflardan Nesne Oluşturma, Metodlara Nesne Geçirme, Özellikler Oluşturma, Özellikleri Kullanma, Kurucular, Kurucu Aşırı Yükleme, Kalıtım, Kalıtım Kavramı ve Kalıtım Terimleri bulunmaktadır.
 
-An Example Project
+## Örnek Proje: Online Alışveriş Sepeti Projesi
 
-Online Shopping Cart Project
+Bu proje, C# programlama dilini kullanarak bir online alışveriş sepeti uygulaması oluşturmayı amaçlamaktadır. Uygulama, kullanıcıların alışveriş sepetine ürün eklemelerine, ürünleri sepetten çıkarmalarına ve sepet içindeki ürünlerin toplam maliyetini hesaplamalarına olanak tanır.
 
-This project aims to create an online shopping cart application using the C# programming language. The application allows users to add products to the shopping cart, remove products from the cart, and calculate the total cost of the items in the cart.
+### Kullanım
 
-Usage
-Downloading and Compiling the Project:
+**Projenin İndirilmesi ve Derlenmesi:**
 
-Download this project to your computer and compile it using the C# compiler.
-Launching the Project:
+1. Bu projeyi bilgisayarınıza indirin ve C# derleyicisini kullanarak derleyin.
 
-After the compilation process is complete, launch the application.
+**Projenin Başlatılması:**
 
-Adding Products:
+2. Derleme işlemi tamamlandıktan sonra uygulamayı başlatın.
 
-You can add various products to the shopping cart by clicking the "Add Product" button.
+**Ürün Ekleme:**
 
-Removing Products:
+3. "Ürün Ekle" düğmesine tıklayarak çeşitli ürünleri alışveriş sepetine ekleyebilirsiniz.
 
-To remove a product from the cart, use the "Remove Product" button.
+**Ürün Çıkarma:**
 
-Calculating Total Cost:
+4. Sepetten bir ürünü çıkarmak için "Ürünü Kaldır" düğmesini kullanın.
 
-Click the "Calculate Total Cost" button to calculate the total cost of the items in the cart.
+**Toplam Maliyeti Hesaplama:**
 
-For More Help:
+5. Sepetteki ürünlerin toplam maliyetini hesaplamak için "Toplam Maliyeti Hesapla" düğmesine tıklayın.
 
-For further information, you can refer to the documentation file.
+**Daha Fazla Yardım İçin:**
 
-Requirements
+6. Daha fazla bilgi için belgelendirme dosyasına başvurabilirsiniz.
 
-To run this project, you need at least .NET Framework 4.5 installed on your system.
+### Gereksinimler
 
-Basic knowledge of the C# programming language is required.
+Bu projeyi çalıştırmak için en azından sisteminizde .NET Framework 4.5'in yüklü olması gerekmektedir.
+
+C# programlama dilinin temel bilgisi gereklidir.
+# OBJECT ORIENTED PROGRAMMING IN C#
+
+Bu proje, C# dilinde Nesne Yönelimli Programlama (Object-Oriented Programming) hakkında daha fazla bilgi sağlamayı amaçlamaktadır. Proje, çeşitli konuları kapsayan soruların çözümlerini içerir; bu konular arasında Sabitler, Değişkenler, Tür Dönüşümü, Operatörler, Döngüler, Sınıf Kavramı, Sınıf Oluşturma, Sınıflardan Nesne Oluşturma, Metodlara Nesne Geçirme, Özellikler Oluşturma, Özellikleri Kullanma, Kurucular, Kurucu Aşırı Yükleme, Kalıtım, Kalıtım Kavramı ve Kalıtım Terimleri bulunmaktadır.
+
+## Örnek Proje: Online Alışveriş Sepeti Projesi
+
+Bu proje, C# programlama dilini kullanarak bir online alışveriş sepeti uygulaması oluşturmayı amaçlamaktadır. Uygulama, kullanıcıların alışveriş sepetine ürün eklemelerine, ürünleri sepetten çıkarmalarına ve sepet içindeki ürünlerin toplam maliyetini hesaplamalarına olanak tanır.
+
+### Kullanım
+
+**Projenin İndirilmesi ve Derlenmesi:**
+
+1. Bu projeyi bilgisayarınıza indirin ve C# derleyicisini kullanarak derleyin.
+
+**Projenin Başlatılması:**
+
+2. Derleme işlemi tamamlandıktan sonra uygulamayı başlatın.
+
+**Ürün Ekleme:**
+
+3. "Ürün Ekle" düğmesine tıklayarak çeşitli ürünleri alışveriş sepetine ekleyebilirsiniz.
+
+**Ürün Çıkarma:**
+
+4. Sepetten bir ürünü çıkarmak için "Ürünü Kaldır" düğmesini kullanın.
+
+**Toplam Maliyeti Hesaplama:**
+
+5. Sepetteki ürünlerin toplam maliyetini hesaplamak için "Toplam Maliyeti Hesapla" düğmesine tıklayın.
+
+**Daha Fazla Yardım İçin:**
+
+6. Daha fazla bilgi için belgelendirme dosyasına başvurabilirsiniz.
+
+### Gereksinimler
+
+Bu projeyi çalıştırmak için en azından sisteminizde .NET Framework 4.5'in yüklü olması gerekmektedir.
+
+C# programlama dilinin temel bilgisi gereklidir.
